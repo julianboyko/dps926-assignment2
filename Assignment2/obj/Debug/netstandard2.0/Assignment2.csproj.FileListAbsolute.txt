@@ -1,0 +1,17 @@
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/bin/Debug/netstandard2.0/Assignment2.deps.json
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/bin/Debug/netstandard2.0/Assignment2.dll
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/bin/Debug/netstandard2.0/ref/Assignment2.dll
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/bin/Debug/netstandard2.0/Assignment2.pdb
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.csprojAssemblyReference.cache
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.AssemblyInfoInputs.cache
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.AssemblyInfo.cs
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.dll
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/ref/Assignment2.dll
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Assignment2.pdb
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Pages/FoodLogPage.xaml.g.cs
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Pages/SearchPage.xaml.g.cs
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Pages/SearchListPage.xaml.g.cs
+/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2/obj/Debug/netstandard2.0/Pages/SearchDetailsPage.xaml.g.cs

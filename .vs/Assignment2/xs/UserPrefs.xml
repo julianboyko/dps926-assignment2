@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C055E066-F095-436E-ADE7-E528F93C0E94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/Pages/SearchPage.xaml">
+    <Files>
+      <File FileName="Assignment2/Pages/SearchDetailsPage.xaml.cs" Line="59" Column="1" />
+      <File FileName="Assignment2.iOS/Main.cs" />
+      <File FileName="Assignment2/Pages/SearchPage.xaml" Line="33" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assignment2" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="SearchDetailsPage.xaml" expanded="True" />
+                <Node name="SearchListPage.xaml" expanded="True" />
+                <Node name="SearchPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Assignment2.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.219A49AE-CD0D-4302-AD57-E03392BD64E4" />
+</Properties>

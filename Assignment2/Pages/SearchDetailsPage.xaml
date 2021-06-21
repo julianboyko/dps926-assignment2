@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Assignment2.Pages.SearchDetailsPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" Spacing="40">
+            <StackLayout Orientation="Vertical">
+                <StackLayout Orientation="Horizontal" Spacing="0" HorizontalOptions="Center">
+                    <Label TextColor="Orange" x:Name="FoodNameLabel" FontSize="24" HorizontalOptions="Center"/>
+                    <Label FontSize="24" Text="'s Details"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Center">
+                    <Label Text="By Brand:" FontSize="20"/>
+                    <Label TextColor="Orange" x:Name="BrandNameLabel" FontSize="20" HorizontalOptions="Center"/>
+                </StackLayout>
+            </StackLayout>
+
+            <Image x:Name="FoodImage"/>
+
+            <StackLayout Orientation="Vertical" Spacing="10" HorizontalOptions="Center">
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Label FontSize="18" Text="Calories:"/>
+                    <Label FontSize="18" x:Name="CaloriesLabel" TextColor="Orange"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Label FontSize="18" Text="Protein:"/>
+                    <Label FontSize="18" x:Name="ProteinLabel" TextColor="Orange"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Label FontSize="18" Text="Carbohydrates:"/>
+                    <Label FontSize="18" x:Name="CarbLabel" TextColor="Orange"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Label FontSize="18" Text="Fats:"/>
+                    <Label FontSize="18" x:Name="FatLabel" TextColor="Orange"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Label FontSize="18" Text="Fiber:"/>
+                    <Label FontSize="18" x:Name="FiberLabel" TextColor="Orange"/>
+                </StackLayout>
+            </StackLayout>
+
+            <Button x:Name="AddToLogButton"
+                        Text="ADD TO LOG"
+                        TextColor="Black"
+                        BackgroundColor="Orange"
+                        BorderRadius="15"
+                        WidthRequest="100"
+                        HeightRequest="50"
+                        Clicked="AddToLogButton_Clicked"
+                        />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
