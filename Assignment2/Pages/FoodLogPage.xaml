@@ -5,6 +5,33 @@
     x:Class="Assignment2.FoodLogPage"
     Title="Food Log">
     <ContentPage.Content>
-        
+       <ListView x:Name="FoodDataListView"
+                      ItemsSource="{Binding AllFoodData}"
+                      HeightRequest="550"
+                      RowHeight="70"
+                      Margin="0, 20, 0, 0"
+                      ItemSelected="FoodDataListView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Spacing="10">
+                                <Image Source="{Binding photoUrl}"/>
+                                <StackLayout Orientation="Vertical" Spacing="5">
+                                    <Label TextColor="Black" Text="{Binding food_name}" />
+                                    <StackLayout Orientation="Horizontal" Spacing="5">
+                                        <Label TextColor="Black" FontSize="15" Text="Brand:"></Label>
+                                        <Label TextColor="Orange" FontSize="15" Text="{Binding brand_name}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                            <ViewCell.ContextActions>
+                                <MenuItem Clicked="OnDelete_Clicked"
+                                          Text="Delete"
+                                          IsDestructive="True"/>
+                            </ViewCell.ContextActions>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
     </ContentPage.Content>
 </ContentPage>

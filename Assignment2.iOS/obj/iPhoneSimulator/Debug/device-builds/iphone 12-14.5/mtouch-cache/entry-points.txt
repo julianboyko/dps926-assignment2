@@ -66,13 +66,69 @@ Function=xamarin_log
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_get_locale_country_code
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.Core.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=BrotliDecoderCreateInstance
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
 Function=xamarin_find_protocol_wrapper_type
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_release_block_on_main_thread
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=xamarin_start_wwan
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
 Function=xamarin_get_block_descriptor
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend
@@ -1089,62 +1145,6 @@ Function=xamarin_init_nsthread
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_os_log
 	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=NetSecurityNative_ReleaseGssBuffer
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DisplayMinorStatus
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DisplayMajorStatus
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ImportUserName
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ImportPrincipalName
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ReleaseName
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitiateCredSpNego
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitiateCredWithPassword
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_ReleaseCred
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitSecContext
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_InitSecContextEx
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_AcceptSecContext
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_DeleteSecContext
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_GetUser
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_Wrap
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=NetSecurityNative_Unwrap
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.dll
-Function=SystemNative_GetDomainSocketSizes
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.Core.dll
-Function=BrotliDecoderCreateInstance
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDecompressStream
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDecompress
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderDestroyInstance
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliDecoderIsFinished
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCreateInstance
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderSetParameter
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCompressStream
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderHasMoreOutput
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderDestroyInstance
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
-Function=BrotliEncoderCompress
-	/Users/julianboyko/Documents/Seneca/Year 4 - Semester 8/Mobile App Development - Cross Platform/Assignment2/Assignment2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.5/mtouch-cache/1-Link/System.IO.Compression.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper

@@ -1,9 +1,17 @@
 ﻿<Properties StartupConfiguration="{C055E066-F095-436E-ADE7-E528F93C0E94}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/Pages/SearchPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/Pages/SearchDetailsPage.xaml.cs">
     <Files>
-      <File FileName="Assignment2/Pages/SearchDetailsPage.xaml.cs" Line="59" Column="1" />
-      <File FileName="Assignment2.iOS/Main.cs" />
-      <File FileName="Assignment2/Pages/SearchPage.xaml" Line="33" Column="23" />
+      <File FileName="Assignment2/Models/FoodDataList.cs" Line="8" Column="38" />
+      <File FileName="Assignment2/Models/FoodData.cs" Line="11" Column="29" />
+      <File FileName="Assignment2/Models/FoodDetailedData.cs" Line="12" Column="35" />
+      <File FileName="Assignment2/Models/FoodDetailedDataList.cs" Line="8" Column="44" />
+      <File FileName="Assignment2/Models/NetworkingManager.cs" Line="55" Column="51" />
+      <File FileName="Assignment2/Persistance/DBManager.cs" Line="33" Column="36" />
+      <File FileName="Assignment2/Persistance/ISQLiteDb.cs" Line="1" Column="1" />
+      <File FileName="Assignment2.iOS/SQLiteDb.cs" Line="1" Column="1" />
+      <File FileName="Assignment2/Pages/FoodLogPage.xaml.cs" Line="24" Column="43" />
+      <File FileName="Assignment2/Models/FoodDataDB.cs" Line="12" Column="45" />
+      <File FileName="Assignment2/Pages/SearchDetailsPage.xaml.cs" Line="13" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,10 +20,14 @@
             <Node name="Assignment2" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="SearchDetailsPage.xaml" expanded="True" />
+                <Node name="FoodLogPage.xaml" expanded="True" />
+                <Node name="SearchDetailsPage.xaml" expanded="True">
+                  <Node name="SearchDetailsPage.xaml.cs" selected="True" />
+                </Node>
                 <Node name="SearchListPage.xaml" expanded="True" />
-                <Node name="SearchPage.xaml" expanded="True" selected="True" />
+                <Node name="SearchPage.xaml" expanded="True" />
               </Node>
+              <Node name="Persistance" expanded="True" />
             </Node>
             <Node name="Assignment2.iOS" expanded="True" />
           </Node>
