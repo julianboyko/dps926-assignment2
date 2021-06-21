@@ -40,9 +40,9 @@ namespace Assignment2.Models
             }
         }
 
-        public async Task<FoodDetailedData> GetFoodDetails(FoodData foodData)
+        public async Task<FoodDetailedData> GetFoodDetails(String nix_item_id)
         {
-            var url = urlBase + "/search/item?nix_item_id=" + foodData.nix_item_id;
+            var url = urlBase + "/search/item?nix_item_id=" + nix_item_id;
 
             var response = await client.GetAsync(url);
 
